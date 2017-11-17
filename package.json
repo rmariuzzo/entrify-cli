@@ -1,0 +1,16 @@
+{
+  "name": "entrify-cli",
+  "version": "1.0.0",
+  "description": "CLI tool to convert package.json to index.js.",
+  "homepage": "https://github.com/rmariuzzo/entrify-cli",
+  "repository": "git@github.com:rmariuzzo/entrify-cli.git",
+  "author": "Rubens Mariuzzo <rubens@mariuzzo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "entrify": "^1.0.1",
+    "meow": "^3.7.0"
+  },
+  "bin": {
+    "entrify": "./cli.js"
+  }
+}
