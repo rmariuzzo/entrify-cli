@@ -1,10 +1,4 @@
-<div align=center>
-
-# entrify-cli
-
-📦  CLI tool to convert `package.json` files to `index.js` files.
-
-</div>
+![entrify-cli - CLI tool to convert `package.json` files to `index.js` files](banner.svg)
 
 ## Installation
 
